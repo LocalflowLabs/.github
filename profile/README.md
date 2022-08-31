@@ -2,4 +2,4 @@
 
 <h3 align="center">Localflow</h3>
 
-<p align="center"><sup><i>Making the world a better place™</sup></i></p>
+<h6 align="center">Making the world a better place™</h6>
